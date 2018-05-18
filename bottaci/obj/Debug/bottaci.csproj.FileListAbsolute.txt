@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\bottaci\bottaci\bin\Debug\bottaci.exe.config
+C:\Users\ADMIN\Desktop\bottaci\bottaci\bin\Debug\bottaci.exe
+C:\Users\ADMIN\Desktop\bottaci\bottaci\bin\Debug\bottaci.pdb
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.Form1.resources
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.exe
+C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.pdb
