@@ -13,7 +13,7 @@ using bottaci.Properties;
 
 namespace bottaci
 {
-    public class Layer : Form
+    public partial class Form1
     {
         //creo i mouse event che ci permetteranno i click
         private const int MOUSEEVENTF_LEFTDOWN = 0x02;
@@ -51,7 +51,7 @@ namespace bottaci
             return myPic;
         }
 
-
+        
         //controlla in tutto lo schermo se trova l'immagine data
         private bool IsInCapture(Bitmap searchFor, Bitmap searchIn)
         {
@@ -98,5 +98,9 @@ namespace bottaci
         {
             NameCoords.Add(key, values);
         }
+
+
+        //bluestack's path
+        OpenFileDialog openDir = new OpenFileDialog();
     }
 }

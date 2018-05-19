@@ -8,3 +8,13 @@ C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.csproj.GenerateResource
 C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.exe
 C:\Users\ADMIN\Desktop\bottaci\bottaci\obj\Debug\bottaci.pdb
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\bin\Debug\bottaci.exe.config
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\bin\Debug\bottaci.exe
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\bin\Debug\bottaci.pdb
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.csprojAssemblyReference.cache
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.Form1.resources
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.Properties.Resources.resources
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.csproj.GenerateResource.cache
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.csproj.CoreCompileInputs.cache
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.exe
+C:\Users\ALESSANDRO\bottaci\bottaci\bottaci\obj\Debug\bottaci.pdb
