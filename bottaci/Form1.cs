@@ -16,5 +16,13 @@ namespace bottaci
         {
             InitializeComponent();
         }
+
+        private void Save_Click(object sender, EventArgs e)
+        {
+            string path = Path.Text;
+            Properties.Settings.Default["we"] = path;
+            Properties.Settings.Default.Save();
+        }
+
     }
 }
