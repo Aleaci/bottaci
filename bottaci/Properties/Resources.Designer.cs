@@ -61,6 +61,16 @@ namespace bottaci.Properties {
         }
         
         /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clashApp {
+            get {
+                object obj = ResourceManager.GetObject("clashApp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Icon simile a (Icona).
         /// </summary>
         internal static System.Drawing.Icon clashOfClans {
@@ -76,6 +86,46 @@ namespace bottaci.Properties {
         internal static System.Drawing.Bitmap minimizza {
             get {
                 object obj = ResourceManager.GetObject("minimizza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap myApps1 {
+            get {
+                object obj = ResourceManager.GetObject("myApps1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap myApps2 {
+            get {
+                object obj = ResourceManager.GetObject("myApps2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap myApps3 {
+            get {
+                object obj = ResourceManager.GetObject("myApps3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap myApps4 {
+            get {
+                object obj = ResourceManager.GetObject("myApps4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -88,5 +88,20 @@
   <ItemGroup>
     <None Include="Resources\minimizza.PNG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clashApp.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myApps1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myApps2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myApps3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myApps4.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
